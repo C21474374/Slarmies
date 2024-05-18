@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: adc743cca54424144a8225e1a540aba9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 277
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55077edc7fbdd41abee46c0828c8b5
+      internalID: 510556031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 274
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10888b3816f234b89c7e17e85cedeb
+      internalID: -217627024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085dc54475f8a4e428247531099c0da1
+      internalID: 1893486021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_35
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff0c2347ada18d449851fb8072cf467
+      internalID: -561101687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce46e0afddb1300428c3a37bac9ef2a2
+      internalID: 498638249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f290a1d5461744da88c0083849e2ea
+      internalID: 490736745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_63
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e5d5bac03b0744692f72aecf103a8a
+      internalID: 1323957023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_64
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6d66f6c9086842ba6f7fbb8de9ec6
+      internalID: -615079963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de9965a516c08046bcfc27ff869d47f
+      internalID: -639837153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cadae2e338da5e4fa583c25684e8a3e
+      internalID: -297329667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3d394258a23344bf176eb45e2e0a9
+      internalID: -355792105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_88
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2da89e994adb43b9c7ce372f1729c
+      internalID: -353867230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Dungeon_Free 1_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b568631d01b936448b2b7868c762fc2
+      internalID: -2099358700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FD_Dungeon_Free 1_0: -607889396
+      FD_Dungeon_Free 1_1: -872279889
+      FD_Dungeon_Free 1_10: 243571378
+      FD_Dungeon_Free 1_11: 1243835325
+      FD_Dungeon_Free 1_12: -13401345
+      FD_Dungeon_Free 1_13: -468703862
+      FD_Dungeon_Free 1_14: 1815387546
+      FD_Dungeon_Free 1_15: -407799218
+      FD_Dungeon_Free 1_16: -149134140
+      FD_Dungeon_Free 1_17: -726309942
+      FD_Dungeon_Free 1_18: -287723726
+      FD_Dungeon_Free 1_19: 2089182040
+      FD_Dungeon_Free 1_2: 510556031
+      FD_Dungeon_Free 1_20: 1359578634
+      FD_Dungeon_Free 1_21: -1687619319
+      FD_Dungeon_Free 1_22: 683028411
+      FD_Dungeon_Free 1_23: -1778828356
+      FD_Dungeon_Free 1_24: 1939431577
+      FD_Dungeon_Free 1_25: 800170825
+      FD_Dungeon_Free 1_26: 1255064345
+      FD_Dungeon_Free 1_27: 434135979
+      FD_Dungeon_Free 1_28: -1560914169
+      FD_Dungeon_Free 1_29: -1089402418
+      FD_Dungeon_Free 1_3: -217627024
+      FD_Dungeon_Free 1_30: -1767657324
+      FD_Dungeon_Free 1_31: -167970647
+      FD_Dungeon_Free 1_32: -1383573645
+      FD_Dungeon_Free 1_33: 1893486021
+      FD_Dungeon_Free 1_34: -963189033
+      FD_Dungeon_Free 1_35: -561101687
+      FD_Dungeon_Free 1_36: 941597839
+      FD_Dungeon_Free 1_37: -282245424
+      FD_Dungeon_Free 1_38: 794623263
+      FD_Dungeon_Free 1_39: -1445368907
+      FD_Dungeon_Free 1_4: 819822978
+      FD_Dungeon_Free 1_40: -1505200569
+      FD_Dungeon_Free 1_41: 498638249
+      FD_Dungeon_Free 1_42: -932110611
+      FD_Dungeon_Free 1_43: 454093241
+      FD_Dungeon_Free 1_44: -1717761678
+      FD_Dungeon_Free 1_45: -1006605479
+      FD_Dungeon_Free 1_46: 1374349722
+      FD_Dungeon_Free 1_47: 954908387
+      FD_Dungeon_Free 1_48: 1161547327
+      FD_Dungeon_Free 1_49: -14459679
+      FD_Dungeon_Free 1_5: 1148734643
+      FD_Dungeon_Free 1_50: -1723956420
+      FD_Dungeon_Free 1_51: -126368615
+      FD_Dungeon_Free 1_52: -775399576
+      FD_Dungeon_Free 1_53: -326869716
+      FD_Dungeon_Free 1_54: -559002919
+      FD_Dungeon_Free 1_55: 539720008
+      FD_Dungeon_Free 1_56: 1952062686
+      FD_Dungeon_Free 1_57: 701894487
+      FD_Dungeon_Free 1_58: -353337408
+      FD_Dungeon_Free 1_59: -1280418942
+      FD_Dungeon_Free 1_6: 878437444
+      FD_Dungeon_Free 1_60: -275644158
+      FD_Dungeon_Free 1_61: -1688407076
+      FD_Dungeon_Free 1_62: 490736745
+      FD_Dungeon_Free 1_63: 1323957023
+      FD_Dungeon_Free 1_64: -615079963
+      FD_Dungeon_Free 1_65: -639837153
+      FD_Dungeon_Free 1_66: 1721849941
+      FD_Dungeon_Free 1_67: 183160233
+      FD_Dungeon_Free 1_68: 213685151
+      FD_Dungeon_Free 1_69: 988873625
+      FD_Dungeon_Free 1_7: -1614545347
+      FD_Dungeon_Free 1_70: 85121353
+      FD_Dungeon_Free 1_71: -333442375
+      FD_Dungeon_Free 1_72: -1520055911
+      FD_Dungeon_Free 1_73: -1280009220
+      FD_Dungeon_Free 1_74: 765711339
+      FD_Dungeon_Free 1_75: -397802417
+      FD_Dungeon_Free 1_76: -276804051
+      FD_Dungeon_Free 1_77: -1568778293
+      FD_Dungeon_Free 1_78: -1430209016
+      FD_Dungeon_Free 1_79: -2135530922
+      FD_Dungeon_Free 1_8: -439250323
+      FD_Dungeon_Free 1_80: 1233118836
+      FD_Dungeon_Free 1_81: 1140279674
+      FD_Dungeon_Free 1_82: -2063774724
+      FD_Dungeon_Free 1_83: 1426819326
+      FD_Dungeon_Free 1_84: -986526522
+      FD_Dungeon_Free 1_85: 1059134138
+      FD_Dungeon_Free 1_86: -297329667
+      FD_Dungeon_Free 1_87: -355792105
+      FD_Dungeon_Free 1_88: -353867230
+      FD_Dungeon_Free 1_89: -2099358700
+      FD_Dungeon_Free 1_9: -254777983
+      FD_Dungeon_Free 1_90: 575879185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
